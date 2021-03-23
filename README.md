@@ -29,6 +29,7 @@ Se aplican 3 modelos de aprendizaje supervisado de clasificación (logístico, d
   * En el hogar utilizan Whatsapp (logístico y RandomForest)
 
 ¿Qué modelo arrojo los mejores resultados de acuerdo a las métricas de evaluación de accuracy score y AUC?
+
 -TV de paga
   * Accuracy score -> árboles de decisión (0.6392)
   * AUC -> árboles de decisión (0.6456)
