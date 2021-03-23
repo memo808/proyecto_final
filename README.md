@@ -39,6 +39,7 @@ Se aplican 3 modelos de aprendizaje supervisado de clasificación (logístico, d
 - Telefonía fija
   * Accuracy score -> random forest (0.72)
   * AUC -> árboles de decisión (0.7716)
+
 -Telefonía móvil
   * Accuracy score -> random forest (0.80)
   * AUC -> random forest (0.7993)
