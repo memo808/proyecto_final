@@ -11,11 +11,13 @@ Se aplican 3 modelos de aprendizaje supervisado de clasificación (logístico, d
   * El hogar utiliza su computadora para ver contenidos por internet (logístico)
   * El hogar utiliza internet para ver OTT gratis (logístico y árboles) 
   * El hogar utiliza smart tv para navegar por internet (logístico y Random Forest)
+
 - Internet
   * El hogar tiene TV de paga (logístico y RandomForest)
   * El hogar utiliza internet para ver OTT de pago (logístico, árboles y RandomForest)
   * El hogar utiliza internet para ver OTT gratis (logístico y árboles)
   * El hogar utiliza smart tv para navegar por internet (logístico, árboles y RandomForest)
+
 - Telefonía fija
   * El hogar cuenta con teléfono celular (logístico y RandomForest)
   * El hogar cuenta con conexión a Internet (logístico, árboles y RandomForest)
