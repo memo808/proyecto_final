@@ -48,3 +48,5 @@ Se aplican 3 modelos de aprendizaje supervisado de clasificación (logístico, d
 
 Los archivos de la ENDUTIH 2019 y los del BIT estaban en formato "CSV" desde su descarga en las fuentes originales. Los archivos de ENDUTIH 2015 a 2018 en las fuentes de descarga están en formato "DBF", por lo que primero se abrieron en Excel para convertirlos a un archivo "CSV" y ya poder abrirlos en Jupyter Notebook y trabajar con ellos.
 
+Liga para gráficas hechas en Tableau:
+https://public.tableau.com/profile/arturo.garc.a6127#!/vizhome/proyecto_final_16164679655450/telfija_telmovil
